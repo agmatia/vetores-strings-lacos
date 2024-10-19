@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715015212 source:c:\users\aluno\desktop\06.05\string-maiusculas\main.c
+	<stdio.h>
+	<stdlib.h>
+
